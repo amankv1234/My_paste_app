@@ -107,7 +107,7 @@ Reload or close your browser — your data stays safe!
 </p>
 
 ## 💻 Folder Structure
-
+```
 PASTE_APP/
 ├── public/
 ├── src/
@@ -122,7 +122,7 @@ PASTE_APP/
 ├── package.json
 └── README.md
 
-
+```
 
 
 ## 🧩 Tools & Libraries Used
