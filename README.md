@@ -161,4 +161,7 @@ PASTE_APP/
 
 This project is licensed under the MIT License — free to use and modify!
 
-<p align="center"> Made with Hard Work using <b>React, Redux Toolkit & Tailwind CSS</b> </p> ```
+
+
+<p align="center"> Made with Hard Work using <b>React, Redux Toolkit & Tailwind CSS</b> </p> 
+
