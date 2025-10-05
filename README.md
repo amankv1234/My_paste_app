@@ -55,6 +55,12 @@ This project is perfect for students and developers who want to manage short not
 
 ---
 
+## 🌐 Live Demo
+ 
+[Click here](https://effervescent-palmier-207afe.netlify.app/)
+
+
+
 ## ⚙️ Installation Guide
 
 Follow these simple steps to set up the project locally 👇
