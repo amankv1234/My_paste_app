@@ -65,12 +65,20 @@ git clone https://github.com/amankv1234/PASTE_APP.git
 cd PASTE_APP
 
 ### 2️⃣ Install Dependencies
+```bash
 npm install
-npm install @reduxjs/toolkit react-redux react-toastify
+```
+```bash
+npm install @reduxjs/toolkit react-redux
+```
+```bash
+    npm install toastr --save
+```
 
 3️⃣ Run the Development Server
-
+```bash
 npm run dev
+```
 
 4️⃣ Open in Browser
 
