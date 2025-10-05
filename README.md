@@ -60,7 +60,7 @@ This project is perfect for students and developers who want to manage short not
 Follow these simple steps to set up the project locally 👇
 
 ### 1️⃣ Clone the Repository
-```bash
+
 git clone https://github.com/amankv1234/PASTE_APP.git
 cd PASTE_APP
 
@@ -69,7 +69,7 @@ npm install
 npm install @reduxjs/toolkit react-redux react-toastify
 
 3️⃣ Run the Development Server
-```bash
+
 npm run dev
 
 4️⃣ Open in Browser
@@ -86,13 +86,17 @@ You can edit, update, copy, view, and share pastes easily.
 All your pastes are stored securely in your LocalStorage.
 
 Reload or close your browser — your data stays safe!
+## 📸 Screenshots
 
-📸 Screenshots
-🏠 Home Page
-<p align="center"> <img src="./paste1.png" alt="Home Screenshot" width="700" /> </p>
-✏️ Add / Edit Paste
-<p align="center"> <img src="./paste2.png" alt="Add/Edit Screenshot" width="700" /> </p>
+### 🏠 Home Page
+<p align="center">
+  <img src="./paste1.png" alt="Home Screenshot" width="700" />
+</p>
 
+### ✏️ Add / Edit Paste
+<p align="center">
+  <img src="./paste2.png" alt="Add/Edit Screenshot" width="700" />
+</p>
 
 💻 Folder Structure
 PASTE_APP/
@@ -110,15 +114,28 @@ PASTE_APP/
 ├── logo.png
 ├── package.json
 └── README.md
-🧩 Tools & Libraries Used
-| Tool               | Logo                                                                                              |
-| ------------------ | ------------------------------------------------------------------------------------------------- |
-| **React**          | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40"/>        |
-| **Redux Toolkit**  | <img src="https://redux-toolkit.js.org/img/redux.svg" width="40"/>                                |
-| **React Toastify** | <img src="https://fkhadra.github.io/react-toastify/img/logo.svg" width="40"/>                     |
-| **Tailwind CSS**   | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40"/> |
-| **JavaScript**     | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40"/>   |
-| **LocalStorage**   | <img src="https://cdn-icons-png.flaticon.com/512/616/616408.png" width="40"/>                     |
+## 🧩 Tools & Libraries Used
+
+### 🛠️ Core Tools
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="45" />
+  <img src="https://redux-toolkit.js.org/img/redux.svg" alt="Redux Toolkit" width="45" />
+  <img src="https://fkhadra.github.io/react-toastify/img/logo.svg" alt="React Toastify" width="45" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="45" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="45" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="45" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="45" />
+  <img src="https://cdn-icons-png.flaticon.com/512/616/616408.png" alt="LocalStorage" width="45" />
+</p>
+
+### 📦 Libraries & Frameworks
+- **React** – UI framework for building interactive components  
+- **Redux Toolkit** – Efficient state management  
+- **React Toastify** – Notification system  
+- **Tailwind CSS (CDN)** – Fast and responsive styling  
+- **LocalStorage API** – Client-side storage  
+- **JavaScript (ES6+)** – Core scripting  
+- **HTML5 & CSS3** – Structure and design                     |
 📢 Author
 
 👨‍💻 Aman Kumar Vishwakarma
