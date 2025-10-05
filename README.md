@@ -106,23 +106,25 @@ Reload or close your browser — your data stays safe!
   <img src="./paste2.png" alt="Add/Edit Screenshot" width="700" />
 </p>
 
-💻 Folder Structure
+## 💻 Folder Structure
 
 PASTE_APP/
 ├── public/
 ├── src/
-│   ├── components/
-│   ├── redux/
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-├── screenshots/
-│   ├── home.png
-│   ├── add-edit.png
-│   └── view.png
+│ ├── components/
+│ ├── redux/
+│ ├── App.jsx
+│ ├── main.jsx
+│ └── index.css
+├── paste1.png
+├── paste2.png
 ├── logo.png
 ├── package.json
 └── README.md
+
+
+
+
 ## 🧩 Tools & Libraries Used
 
 ### 🛠️ Core Tools
