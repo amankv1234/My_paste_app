@@ -99,6 +99,7 @@ Reload or close your browser — your data stays safe!
 </p>
 
 💻 Folder Structure
+
 PASTE_APP/
 ├── public/
 ├── src/
@@ -135,7 +136,10 @@ PASTE_APP/
 - **Tailwind CSS (CDN)** – Fast and responsive styling  
 - **LocalStorage API** – Client-side storage  
 - **JavaScript (ES6+)** – Core scripting  
-- **HTML5 & CSS3** – Structure and design                     |
+- **HTML5 & CSS3** – Structure and design
+
+
+  |
 📢 Author
 
 👨‍💻 Aman Kumar Vishwakarma
@@ -145,4 +149,4 @@ PASTE_APP/
 
 This project is licensed under the MIT License — free to use and modify!
 
-<p align="center"> Made with ❤️ using <b>React, Redux Toolkit & Tailwind CSS</b> </p> ```
+<p align="center"> Made with Hard Work using <b>React, Redux Toolkit & Tailwind CSS</b> </p> ```
